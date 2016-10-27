@@ -1,0 +1,10 @@
+1;Sagar;1992-01-23 ;Borivli;Male;sagar_2301@yahoo.co.in;982-126-9832;600000;Yes;1;Yes;10000000;1;
+2;Jay;1992-04-25 ;Virar;Male;jayu13@gmail.com;996-016-4285;500000;No;1;No;5000000;2;
+3;Vineet;1991-09-02 ;Panvel;Male;vineetpalan@gmail.com;992-045-1713;550000;No;1;Yes;10000000;13;
+4;Devisha;1991-09-24 ;Borivli;Female;devi24modi@gmail.com;983-305-9995;1000000;No;2;Yes;7000000;14;
+5;Dhaval;1990-08-04 ;Dahisar;Male;dhavalpatel20@gmail.com;902-964-9677;100000000;No;1;Yes;5000000;15;
+6;Moddy;1991-10-10 ;Malad;Male;moddyb@gmail.com;992-012-1004;900000000;Yes;1;Yes;250000000;16;
+7;Rushabh;1991-01-27 ;Lalbaug;Male;rushabhsoni@gmail.com;987-654-3210;2000000;Yes;1;No;10000000;14;
+8;Gaurav;1993-01-20 ;Malad;Male;gaurav@gmail.com;879-654-1230;4000000;No;1;No;15000000;5;
+9;Krina;1991-02-10 ;Borivli;Female;krina@gmail.com;897-546-1320;20000000;Yes;2;Yes;10000000;1;
+10;Pooja;1999-01-10 ;Sandhurst Road;Female;pooja@gmail.com;978-645-1023;12365487;Yes;1;Yes;13467985;6;
